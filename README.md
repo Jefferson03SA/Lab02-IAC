@@ -6,6 +6,6 @@
 - Moran Zapata Oscar
 
 # Comandos
-terraform init
-terraform apply
-docker logs nginx
+- terraform init
+- terraform apply
+- docker logs nginx
